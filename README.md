@@ -6,7 +6,8 @@ This essay is meant to be accessible, and proves all results used to solve the p
 
 <br>
 
---
+---
+
 <p align="center">
   <img src="images/first_page.png" alt="First page of the essay" width="100%">
 </p>
